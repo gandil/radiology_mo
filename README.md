@@ -7,7 +7,7 @@ Because I'm doing Ten cross-validation So there are prediction and actual for ea
 p-values won't work for categorical data, we will have to use Chi-square
 
 
-## Problem #2: Increasing testing precision from 0% to 90% 
+## Problem #2: Increasing testing precision from 0% to 90% (Folder svm2)
 
 I need two things but let’s start with first one :
 - I need to change the way TCV svm run
